@@ -1,0 +1,132 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: hsl(18, 67%, 53%);
+    color: #3fc6ec;
+    text-align: center;
+    padding: 1rem 0;
+    transition: background-color 0.3s;
+    z-index: 1000;
+}
+
+.navbar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.navbar ul li {
+    margin: 0 1rem;
+}
+
+.navbar ul li a {
+    color: #25c82a;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    transition: color 0.3s;
+}
+
+.navbar ul li a:hover {
+    color: #06cbcf;
+}
+
+.scrolled {
+    background-color: #af3c3c;
+}
+
+section {
+    padding: 4rem 2rem;
+    margin-top: 5rem;
+}
+
+#home {
+    background: #1b8fb2a9;
+}
+
+#about {
+    background: #9c9ffaa9;
+}
+
+#services {
+    background: #9c9ffaa9;
+}
+
+#contact {
+    background: #7478f1a9;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #333;
+    color: hwb(216 23% 52%);
+    text-align: center;
+    padding: 1rem 0;
+    transition: background-color 0.3s;
+    z-index: 1000;
+}
+
+.navbar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.navbar ul li {
+    margin: 0 1rem;
+}
+
+.navbar ul li a {
+    color: #ec0d27ce;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    transition: color 0.3s;
+}
+
+.navbar ul li a:hover {
+    color: #2195d3;
+}
+
+.scrolled {
+    background-color: #93bbda;
+}
+
+section {
+    padding: 4rem 2rem;
+    margin-top: 5rem;
+}
+
+#home {
+    background: #c6cf1ba9;
+}
+
+#about {
+    background: #f1da0fa9;
+}
+
+#services {
+    background: #d8ec42a9;
+}
+
+#contact {
+    background: #c2d212a9;
+}
